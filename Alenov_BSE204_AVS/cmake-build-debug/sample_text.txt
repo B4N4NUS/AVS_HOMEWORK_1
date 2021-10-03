@@ -1,0 +1,10 @@
+1
+For the firstfirst (non-array) form, expression must be a pointer to an object type or a class type contextually implicitly ;
+2
+3 For awdthe first (non-array) form, expression must be a pointer to an object type or a class type contextually implicitly ;
+3
+For awdawdawdthe first (non-array) form, expression must be a pointer to an object type or a class type contextually implicitly ;
+3
+For dawdthe first (non-array) form, expression must be a pointer to an object type or a class type contextually implicitly ;
+1
+For awdawdawdthe first (non-array) form, expression must be a pointer to an object type or a class type contextually implicitly ;

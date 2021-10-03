@@ -1,0 +1,11 @@
+Container was sorted by straight merge sort and contains 5 elements.
+0: Quotient = 87.5072: Text: a the until young I Alvarez hung for  He him fixing his have He Clef 
+Encryption by replacing characters with numbers: 97 / 116 104 101 / 117 110 116 105 108 / 121 111 117 110 103 / 73 / 65 108 118 97 114 101 122 / 104 117 110 103 / 102 111 114 / / 72 101 / 104 105 109 / 102 105 120 105 110 103 / 104 105 115 / 104 97 118 101 / 72 101 / 67 108 101 102 / 
+1: Quotient = 87.5985: Text: often, Youve his the took and his… right, sir. down lifted going his covering sat his directly SCP-173 trembling like their to Youve yes.And his in night, see. the that appreciatively should a discuss instructions going the  his… an Barry with faces and glass 
+Encryption by substitution of characters: gyztf, Ngxct iol zit zgga qfr iol… kouiz, lok. rgvf soyztr ugofu iol egctkofu lqz iol roktezsn LEH-173 zktdwsofu soat zitok zg Ngxct ntl.Qfr iol of fouiz, ltt. zit ziqz qhhkteoqzoctsn ligxsr q rolexll oflzkxezogfl ugofu zit  iol… qf Wqkkn vozi yqetl qfr usqll 
+2: Quotient = 91.2976: Text: and uncomfortable. until faces me on all  said, covering table next Clef took break 
+Encryption by cyclically shifting the code of each character by -842150451: (n = 3) dqg xqfrpiruwdeoh1 xqwlo idfhv ph rq doo  vdlg/ fryhulqj wdeoh qh{w Fohi wrrn euhdn 
+3: Quotient = 92.9242: Text:  me, Right dripping wallpaper, him. particularly not gleaming was 
+Encryption by replacing characters with numbers: / 109 101 44 / 82 105 103 104 116 / 100 114 105 112 112 105 110 103 / 119 97 108 108 112 97 112 101 114 44 / 104 105 109 46 / 112 97 114 116 105 99 117 108 97 114 108 121 / 110 111 116 / 103 108 101 97 109 105 110 103 / 119 97 115 / 
+4: Quotient = 94.1429: Text: exquisite. into the is nervously locate look positioned dont took struggled office  his this, tonight, tonight, the lifted the Caravaggio He his pedestal 
+Encryption by substitution of characters: tbjxolozt. ofzg zit ol ftkcgxlsn sgeqzt sgga hglozogftr rgfz zgga lzkxuustr gyyoet  iol ziol, zgfouiz, zgfouiz, zit soyztr zit Eqkqcquuog It iol htrtlzqs 

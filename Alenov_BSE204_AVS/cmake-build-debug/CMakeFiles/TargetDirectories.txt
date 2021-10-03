@@ -1,0 +1,3 @@
+C:/Users/mikha/Desktop/Alenov_BSE204_AVS/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mikha/Desktop/Alenov_BSE204_AVS/cmake-build-debug/CMakeFiles/Alenov_BSE204_AVS.dir
+C:/Users/mikha/Desktop/Alenov_BSE204_AVS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
